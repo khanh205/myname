@@ -12,7 +12,7 @@
     display: inline-block;
     position: relative;
     left: 100%;
-    animation: runText 10s linear infinite paused; /* Paused by default */
+    animation: runText 15s linear infinite paused; /* Paused by default */
 }
 
 @keyframes runText {
